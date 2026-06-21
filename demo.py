@@ -5,6 +5,3 @@ fsa
 dfs
 daf
 sdf
-sdfs
-daf
-sdf
